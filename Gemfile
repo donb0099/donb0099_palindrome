@@ -1,3 +1,4 @@
+gem 'donb0099_palindrome'
 source "https://rubygems.org"
 
 # Specify your gem's dependencies in donb0099_palindrome.gemspec
