@@ -24,7 +24,7 @@ Or install it directly using `gem`:
 $ gem install donb0099_palindrome
 ```
 
-## Usage
+## Usage  (This description still under testing)
 
 `donb0099_palindrome` can add a `palindrome?` method to the `String` class,
  and a 'palindrome?' method to the 'Integer' class.
